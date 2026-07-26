@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**hsanjanaa/hsanjanaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sanjana 👋
 
-Here are some ideas to get you started:
+🎓 Electronics and Communication Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Embedded Systems
+- Internet of Things (IoT)
+- Raspberry Pi
+- Arduino
+- STM32
+- Edge AI
+
+## Languages
+- Python
+- Embedded C
+- C
+
+## Tools
+- Arduino IDE
+- STM32CubeIDE
+- VS Code
+- RealVNC
+- Git & GitHub
+- Blynk
+- ThingSpeak
+
+## Featured Projects
+- 🏥 IoT-Based Smart Ward Supervising System
+- 🌱 STM32 ICU Monitoring System
+- 🌾 Intelligent Farm Monitoring System
