@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Sanjana 👋
 
 🎓 Electronics and Communication Engineering Student
